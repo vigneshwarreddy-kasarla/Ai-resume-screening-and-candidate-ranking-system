@@ -1,0 +1,15 @@
+streamlit
+PyPDF2
+pandas
+numpy
+gensim
+scikit-learn
+nltk
+jinja2
+python-magic     # optional for file type detection
+# If you want to use facebook fasttext binary classifier (optional):
+fasttext
+sentence-transformers
+pytesseract 
+pillow 
+pdf2image
